@@ -1,0 +1,10 @@
+path: C:\Develop\dat\land_tree\dataset_images_512_128\dataset_images  # dataset root dir
+train: train\image  #
+val:  cval\image # 
+test: test\image  #
+label_folder: label_yolo
+
+# Classes
+nc: 1  # number of classes
+names: ['tree']  # class names
+
